@@ -1,0 +1,3 @@
+[submodule "web-platform-tests"]
+	path = SharedStorage
+	url = https://github.com/brettz9/SharedStorage
